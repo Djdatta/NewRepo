@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47" started-at="2018-01-18T07:33:17Z" finished-at="2018-01-18T07:33:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47" started-at="2018-01-18T07:33:17Z" finished-at="2018-01-18T07:33:17Z">
+      <class name="TestNG">
+        <test-method status="PASS" signature="a1()[pri:0, instance:TestNG@2286778]" name="a1" is-config="true" duration-ms="5" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:TestNG@2286778]" name="test1" duration-ms="5" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="a1()[pri:0, instance:TestNG@2286778]" name="a1" is-config="true" duration-ms="1" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:TestNG@2286778]" name="test2" duration-ms="0" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="a1()[pri:0, instance:TestNG@2286778]" name="a1" is-config="true" duration-ms="0" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:TestNG@2286778]" name="test3" duration-ms="0" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- TestNG -->
+      <class name="TestNG3">
+        <test-method status="PASS" signature="tc7()[pri:0, instance:TestNG3@6d7b4f4c]" name="tc7" duration-ms="1" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="tc8()[pri:0, instance:TestNG3@6d7b4f4c]" name="tc8" duration-ms="1" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc8 -->
+        <test-method status="PASS" signature="tc9()[pri:0, instance:TestNG3@6d7b4f4c]" name="tc9" duration-ms="1" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc9 -->
+      </class> <!-- TestNG3 -->
+      <class name="TestNG1">
+        <test-method status="PASS" signature="test4()[pri:0, instance:TestNG1@4e9ba398]" name="test4" duration-ms="1" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="a1()[pri:0, instance:TestNG1@4e9ba398]" name="a1" is-config="true" duration-ms="0" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method status="PASS" signature="a1()[pri:0, instance:TestNG1@4e9ba398]" name="a1" is-config="true" duration-ms="0" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:TestNG1@4e9ba398]" name="test5" duration-ms="1" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:TestNG1@4e9ba398]" name="test6" duration-ms="1" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="a1()[pri:0, instance:TestNG1@4e9ba398]" name="a1" is-config="true" duration-ms="0" started-at="2018-01-18T13:03:17Z" finished-at="2018-01-18T13:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+      </class> <!-- TestNG1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
