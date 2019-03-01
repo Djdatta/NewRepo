@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="3" ignored="0" total="18" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="229292" started-at="2019-01-07T11:30:13Z" finished-at="2019-01-07T11:34:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="229292" started-at="2019-01-07T11:30:13Z" finished-at="2019-01-07T11:34:02Z">
+      <class name="com.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="setup" is-config="true" duration-ms="6736" started-at="2019-01-07T11:31:49Z" finished-at="2019-01-07T11:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="fbLinkTest()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="fbLinkTest" duration-ms="110" started-at="2019-01-07T11:31:55Z" finished-at="2019-01-07T11:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="tearDown" is-config="true" duration-ms="679" started-at="2019-01-07T11:31:55Z" finished-at="2019-01-07T11:31:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="setup" is-config="true" duration-ms="6474" started-at="2019-01-07T11:31:56Z" finished-at="2019-01-07T11:32:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="linkedInLinkTest()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="linkedInLinkTest" duration-ms="134" started-at="2019-01-07T11:32:03Z" finished-at="2019-01-07T11:32:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkedInLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="tearDown" is-config="true" duration-ms="958" started-at="2019-01-07T11:32:03Z" finished-at="2019-01-07T11:32:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="setup" is-config="true" duration-ms="6826" started-at="2019-01-07T11:32:04Z" finished-at="2019-01-07T11:32:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="loginPageTitleTest" duration-ms="38" started-at="2019-01-07T11:32:10Z" finished-at="2019-01-07T11:32:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="tearDown" is-config="true" duration-ms="690" started-at="2019-01-07T11:32:10Z" finished-at="2019-01-07T11:32:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="setup" is-config="true" duration-ms="6524" started-at="2019-01-07T11:32:11Z" finished-at="2019-01-07T11:32:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="loginTest" duration-ms="3327" started-at="2019-01-07T11:32:18Z" finished-at="2019-01-07T11:32:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="tearDown" is-config="true" duration-ms="654" started-at="2019-01-07T11:32:21Z" finished-at="2019-01-07T11:32:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="setup" is-config="true" duration-ms="6679" started-at="2019-01-07T11:32:22Z" finished-at="2019-01-07T11:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="twitterLinkTest()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="twitterLinkTest" duration-ms="84" started-at="2019-01-07T11:32:28Z" finished-at="2019-01-07T11:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitterLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="tearDown" is-config="true" duration-ms="694" started-at="2019-01-07T11:32:28Z" finished-at="2019-01-07T11:32:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="setup" is-config="true" duration-ms="7318" started-at="2019-01-07T11:32:29Z" finished-at="2019-01-07T11:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validatImageTest()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="validatImageTest" duration-ms="37" started-at="2019-01-07T11:32:36Z" finished-at="2019-01-07T11:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="tearDown" is-config="true" duration-ms="651" started-at="2019-01-07T11:32:36Z" finished-at="2019-01-07T11:32:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="setup" is-config="true" duration-ms="6392" started-at="2019-01-07T11:32:37Z" finished-at="2019-01-07T11:32:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="youtubeLinkTest()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="youtubeLinkTest" duration-ms="99" started-at="2019-01-07T11:32:44Z" finished-at="2019-01-07T11:32:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youtubeLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.LoginPageTest@59ec2012]" name="tearDown" is-config="true" duration-ms="703" started-at="2019-01-07T11:32:44Z" finished-at="2019-01-07T11:32:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcases.LoginPageTest -->
+      <class name="com.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="setUp" is-config="true" duration-ms="11428" started-at="2019-01-07T11:30:13Z" finished-at="2019-01-07T11:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AdminPageTest()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="AdminPageTest" duration-ms="3577" started-at="2019-01-07T11:30:24Z" finished-at="2019-01-07T11:30:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="tearDown" is-config="true" duration-ms="1266" started-at="2019-01-07T11:30:28Z" finished-at="2019-01-07T11:30:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="setUp" is-config="true" duration-ms="8347" started-at="2019-01-07T11:30:29Z" finished-at="2019-01-07T11:30:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="configurationPageTest()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="configurationPageTest" duration-ms="2992" started-at="2019-01-07T11:30:38Z" finished-at="2019-01-07T11:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configurationPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="tearDown" is-config="true" duration-ms="691" started-at="2019-01-07T11:30:41Z" finished-at="2019-01-07T11:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="setUp" is-config="true" duration-ms="8926" started-at="2019-01-07T11:30:41Z" finished-at="2019-01-07T11:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="jobPageTest()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="jobPageTest" duration-ms="3060" started-at="2019-01-07T11:30:50Z" finished-at="2019-01-07T11:30:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jobPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="tearDown" is-config="true" duration-ms="689" started-at="2019-01-07T11:30:53Z" finished-at="2019-01-07T11:30:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="setUp" is-config="true" duration-ms="8687" started-at="2019-01-07T11:30:54Z" finished-at="2019-01-07T11:31:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="jobTitlePageTest()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="jobTitlePageTest" duration-ms="3637" started-at="2019-01-07T11:31:03Z" finished-at="2019-01-07T11:31:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jobTitlePageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="tearDown" is-config="true" duration-ms="1053" started-at="2019-01-07T11:31:06Z" finished-at="2019-01-07T11:31:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="setUp" is-config="true" duration-ms="9636" started-at="2019-01-07T11:31:07Z" finished-at="2019-01-07T11:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="notificationPageTest()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="notificationPageTest" duration-ms="2991" started-at="2019-01-07T11:31:17Z" finished-at="2019-01-07T11:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- notificationPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="tearDown" is-config="true" duration-ms="884" started-at="2019-01-07T11:31:20Z" finished-at="2019-01-07T11:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="setUp" is-config="true" duration-ms="8870" started-at="2019-01-07T11:31:21Z" finished-at="2019-01-07T11:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="organizationPageTest()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="organizationPageTest" duration-ms="2691" started-at="2019-01-07T11:31:30Z" finished-at="2019-01-07T11:31:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- organizationPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="tearDown" is-config="true" duration-ms="793" started-at="2019-01-07T11:31:32Z" finished-at="2019-01-07T11:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="setUp" is-config="true" duration-ms="11517" started-at="2019-01-07T11:31:33Z" finished-at="2019-01-07T11:31:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="qualificationPageTest()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="qualificationPageTest" duration-ms="3059" started-at="2019-01-07T11:31:45Z" finished-at="2019-01-07T11:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- qualificationPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="tearDown" is-config="true" duration-ms="688" started-at="2019-01-07T11:31:48Z" finished-at="2019-01-07T11:31:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="setUp" is-config="true" duration-ms="9336" started-at="2019-01-07T11:33:52Z" finished-at="2019-01-07T11:34:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:1, instance:com.testcases.HomePageTest@6500df86]" name="verifyHomepageTitle" duration-ms="9" started-at="2019-01-07T11:34:01Z" finished-at="2019-01-07T11:34:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.HomePageTest@6500df86]" name="tearDown" is-config="true" duration-ms="1142" started-at="2019-01-07T11:34:01Z" finished-at="2019-01-07T11:34:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcases.HomePageTest -->
+      <class name="com.testcases.UserManagementPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.UserManagementPageTest@402a079c]" name="setUp" is-config="true" duration-ms="12506" started-at="2019-01-07T11:32:45Z" finished-at="2019-01-07T11:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="addUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcases.UserManagementPageTest@402a079c]" name="addUser" duration-ms="10380" started-at="2019-01-07T11:32:58Z" data-provider="getRHRMTestData" finished-at="2019-01-07T11:33:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ESS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hannah Flores]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dattat]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Enabled]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Dattata21212]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Dattata21212]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="btnAdd"]"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'PUN-WKS-AC422', ip: '10.206.35.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\DJadhav\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64506}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: ed7fe0e58f63ba144f57b6aa24e19d65
+*** Element info: {Using=xpath, value=//*[@id="btnAdd"]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="btnAdd"]"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'PUN-WKS-AC422', ip: '10.206.35.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\DJadhav\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64506}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: ed7fe0e58f63ba144f57b6aa24e19d65
+*** Element info: {Using=xpath, value=//*[@id="btnAdd"]}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+at com.sun.proxy.$Proxy8.findElement(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy12.click(Unknown Source)
+at com.pages.UserManagement.clickAddUser(UserManagement.java:51)
+at com.testcases.UserManagementPageTest.addUser(UserManagementPageTest.java:53)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUser -->
+        <test-method status="PASS" signature="tearup()[pri:0, instance:com.testcases.UserManagementPageTest@402a079c]" name="tearup" is-config="true" duration-ms="675" started-at="2019-01-07T11:33:08Z" finished-at="2019-01-07T11:33:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.UserManagementPageTest@402a079c]" name="setUp" is-config="true" duration-ms="11761" started-at="2019-01-07T11:33:09Z" finished-at="2019-01-07T11:33:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="addUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcases.UserManagementPageTest@402a079c]" name="addUser" duration-ms="10350" started-at="2019-01-07T11:33:20Z" data-provider="getRHRMTestData" finished-at="2019-01-07T11:33:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Linda Anderson]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Linda123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Enabled]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Linda123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Linda123]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="btnAdd"]"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'PUN-WKS-AC422', ip: '10.206.35.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\DJadhav\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64573}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: a2cee9c0547b634871da2b66f063a1ef
+*** Element info: {Using=xpath, value=//*[@id="btnAdd"]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="btnAdd"]"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'PUN-WKS-AC422', ip: '10.206.35.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\DJadhav\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64573}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: a2cee9c0547b634871da2b66f063a1ef
+*** Element info: {Using=xpath, value=//*[@id="btnAdd"]}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+at com.sun.proxy.$Proxy8.findElement(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy12.click(Unknown Source)
+at com.pages.UserManagement.clickAddUser(UserManagement.java:51)
+at com.testcases.UserManagementPageTest.addUser(UserManagementPageTest.java:53)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUser -->
+        <test-method status="PASS" signature="tearup()[pri:0, instance:com.testcases.UserManagementPageTest@402a079c]" name="tearup" is-config="true" duration-ms="642" started-at="2019-01-07T11:33:31Z" finished-at="2019-01-07T11:33:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.UserManagementPageTest@402a079c]" name="setUp" is-config="true" duration-ms="13341" started-at="2019-01-07T11:33:31Z" finished-at="2019-01-07T11:33:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="verifyUserManagementPage()[pri:0, instance:com.testcases.UserManagementPageTest@402a079c]" name="verifyUserManagementPage" duration-ms="6262" started-at="2019-01-07T11:33:45Z" finished-at="2019-01-07T11:33:51Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at org.openqa.selenium.support.events.EventFiringWebDriver.extractInterfaces(EventFiringWebDriver.java:120)
+at org.openqa.selenium.support.events.EventFiringWebDriver.access$300(EventFiringWebDriver.java:69)
+at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.<init>(EventFiringWebDriver.java:397)
+at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.<init>(EventFiringWebDriver.java:389)
+at org.openqa.selenium.support.events.EventFiringWebDriver.createWebElement(EventFiringWebDriver.java:327)
+at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:196)
+at com.pages.UserManagement.selectUnByName(UserManagement.java:68)
+at com.testcases.UserManagementPageTest.verifyUserManagementPage(UserManagementPageTest.java:40)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserManagementPage -->
+        <test-method status="PASS" signature="tearup()[pri:0, instance:com.testcases.UserManagementPageTest@402a079c]" name="tearup" is-config="true" duration-ms="710" started-at="2019-01-07T11:33:51Z" finished-at="2019-01-07T11:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearup -->
+      </class> <!-- com.testcases.UserManagementPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
