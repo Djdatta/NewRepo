@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37776" started-at="2019-06-06T11:42:09Z" finished-at="2019-06-06T11:42:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37776" started-at="2019-06-06T11:42:09Z" finished-at="2019-06-06T11:42:47Z">
+      <class name="dynamicWebTable.WebTableHandle">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:dynamicWebTable.WebTableHandle@548a9f61]" name="startUp" is-config="true" duration-ms="15459" started-at="2019-06-06T17:12:09Z" finished-at="2019-06-06T17:12:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="getAllData()[pri:0, instance:dynamicWebTable.WebTableHandle@548a9f61]" name="getAllData" duration-ms="2398" started-at="2019-06-06T17:12:24Z" finished-at="2019-06-06T17:12:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dynamicWebTable.WebTableHandle@548a9f61]" name="tearDown" is-config="true" duration-ms="691" started-at="2019-06-06T17:12:27Z" finished-at="2019-06-06T17:12:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startUp()[pri:0, instance:dynamicWebTable.WebTableHandle@548a9f61]" name="startUp" is-config="true" duration-ms="9664" started-at="2019-06-06T17:12:27Z" finished-at="2019-06-06T17:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="getMaxPrice()[pri:0, instance:dynamicWebTable.WebTableHandle@548a9f61]" name="getMaxPrice" duration-ms="986" started-at="2019-06-06T17:12:37Z" finished-at="2019-06-06T17:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMaxPrice -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dynamicWebTable.WebTableHandle@548a9f61]" name="tearDown" is-config="true" duration-ms="675" started-at="2019-06-06T17:12:38Z" finished-at="2019-06-06T17:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startUp()[pri:0, instance:dynamicWebTable.WebTableHandle@548a9f61]" name="startUp" is-config="true" duration-ms="7187" started-at="2019-06-06T17:12:39Z" finished-at="2019-06-06T17:12:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="specificCellData()[pri:0, instance:dynamicWebTable.WebTableHandle@548a9f61]" name="specificCellData" duration-ms="30" started-at="2019-06-06T17:12:46Z" finished-at="2019-06-06T17:12:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specificCellData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dynamicWebTable.WebTableHandle@548a9f61]" name="tearDown" is-config="true" duration-ms="669" started-at="2019-06-06T17:12:46Z" finished-at="2019-06-06T17:12:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- dynamicWebTable.WebTableHandle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
